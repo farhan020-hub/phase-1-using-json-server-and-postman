@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Trepidation moments in NFL",
+      "content": "The quarter back couldnt handle the defense of the newly added team to the division."
+    },
+    {
+      "id": 2,
+      "title": "Kwani what happened?",
+      "content": "Hawaku rada what happened after they saw huyo jamaa akifly on a broom ."
+    },
+    {
+      "title": "Jackie Chan is an alien",
+      "content": "It has been discovered that Jackie is an alien after a fan shared a secretly recorded video of him transforming!",
+      "id": 3
+    }
+  ]
+}
